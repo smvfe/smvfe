@@ -1,4 +1,7 @@
-![cmd](https://img.shields.io/badge/%3E_neofetch_--profile-1f6feb?style=for-the-badge&logo=gnometerminal&logoColor=white)
+<!-- SVG command blocks -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=100000&color=1F6FEB&vCenter=true&repeat=false&width=520&height=28&lines=%3E+neofetch+--profile" alt="cmd-neofetch" />
+</p>
 
 <img align="left" src="https://avatars.githubusercontent.com/smvfe" width="290" />
 
@@ -27,7 +30,9 @@ Status: building fundamentals
 
 ---
 
-![cmd](https://img.shields.io/badge/%3E_methodology_--stack-1f6feb?style=for-the-badge&logo=gnometerminal&logoColor=white)
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=100000&color=1F6FEB&vCenter=true&repeat=false&width=560&height=28&lines=%3E+methodology+--stack" alt="cmd-methodology" />
+</p>
 
 ```txt
 [ENGINEERING MODEL]
@@ -46,7 +51,9 @@ specification -> model -> implementation -> verification -> profiling
 
 ---
 
-![cmd](https://img.shields.io/badge/%3E_language--space_--signal-1f6feb?style=for-the-badge&logo=gnometerminal&logoColor=white)
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=100000&color=1F6FEB&vCenter=true&repeat=false&width=560&height=28&lines=%3E+language-space+--signal" alt="cmd-language" />
+</p>
 
 ```txt
 [PRIMARY]
@@ -61,7 +68,9 @@ Linux / Git / CMake / Cargo / CI
 
 ---
 
-![cmd](https://img.shields.io/badge/%3E_activity_--domains-1f6feb?style=for-the-badge&logo=gnometerminal&logoColor=white)
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=100000&color=1F6FEB&vCenter=true&repeat=false&width=560&height=28&lines=%3E+activity+--domains" alt="cmd-activity" />
+</p>
 
 ```txt
 [SCIENTIFIC COMPUTING]
@@ -79,3 +88,32 @@ Complexity-driven implementation
 Data-structure sensitivity
 Correctness under constraints
 ```
+
+---
+
+## 🧪 GitHub Signal
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smvfe&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=100000&color=1F6FEB&vCenter=true&repeat=false&width=360&height=28&lines=%3E+whoami" alt="cmd-whoami" />
+</p>
+
+```txt
+I treat programming as computational engineering:
+mathematical structure first, systems constraints second,
+implementation quality always.
+
+From proof intuition to executable artifacts.
+```
+
+---
+
+## 🔗 Contact
+
+- GitHub: [smvfe](https://github.com/smvfe)
+- Telegram: [smvfe](https://t.me/ssm_w)
