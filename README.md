@@ -1,16 +1,119 @@
-## Hi there 👋
+```zsh
+> neofetch --profile
+```
 
-<!--
-**smvfe/smvfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://avatars.githubusercontent.com/smvfe" width="290" />
 
-Here are some ideas to get you started:
+```txt
+smvfe@github
+-------------------------
+Major: Applied Mathematics × Computer Science
+Vector: Systems Programming / Scientific Computing / Informatics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Core Paradigms:
+- Mathematical-first engineering
+- Low-level control with formal reasoning
+- Performance-aware implementation
+- Deterministic, test-driven computation
+
+Focus:
+- Numerical methods
+- Memory models and systems behavior
+- Algorithmic efficiency and stability
+- Science expansion
+
+Status: building fundamentals
+```
+
+<br clear="left"/>
+
+---
+
+```zsh
+> methodology --stack
+```
+
+```txt
+[ENGINEERING MODEL]
+specification -> model -> implementation -> verification -> profiling
+
+[PROGRAMMING STYLES]
+- Systems style: explicit resource lifecycle, predictable behavior
+- Scientific style: numeric validation, tolerance-aware testing
+- Functional influence: composability, purity where practical
+
+[COMPUTATION MODEL]
+- Dense/Sparse thinking
+- Iterative and decomposition-oriented workflows
+- Precision/complexity trade-off as first-class design decision
+```
+
+---
+
+```zsh
+> language-space --signal
+```
+
+```txt
+[PRIMARY]
+Rust / C / C++
+
+[FOUNDATIONAL]
+Assembly / Python / Haskell
+
+[TOOLCHAIN]
+Linux / Git / CMake / Cargo / CI
+```
+
+---
+
+```zsh
+> activity --domains
+```
+
+```txt
+[SCIENTIFIC COMPUTING]
+Matrix computations
+Spectral/iterative thinking
+Numerical experimentation
+
+[SYSTEMS]
+Memory behavior
+Execution model awareness
+Kernel/OS-level intuition
+
+[ALGORITHMS]
+Complexity-driven implementation
+Data-structure sensitivity
+Correctness under constraints
+```
+
+---
+
+## 📊 GitHub Signal
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smvfe&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+```zsh
+> whoami
+```
+
+```txt
+I treat programming as computational engineering:
+mathematical structure first, systems constraints second,
+implementation quality always.
+
+From proof intuition to executable artifacts.
+```
+
+---
+
+## 🌐 Contact
+
+- GitHub: [smvfe](https://github.com/smvfe)
+- Telegram: [smvfe](https://t.me/ssm_w)
+---
